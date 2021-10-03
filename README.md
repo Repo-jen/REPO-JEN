@@ -60,7 +60,7 @@
 ## Credit
 TERIMAKASIH UNTUK
 
-*   [Mafia_tobatZ](https://t.me/vckyouubitch) - ⚡Zaen_music⚡
+*   [Mafia_tobatZ](https://t.me/Mafia_tobatz) - ⚡Zaen_music⚡
 *   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
 *   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
 *    DAN MASIH BANYAK LAGI TOT
