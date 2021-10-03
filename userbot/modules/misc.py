@@ -120,7 +120,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        f"**╭✠╼━━━━━━❖━━━━━━━✠╮**\n             [{REPO_NAME}](https://github.com/Repo-jen/REPO-JEN)\n╰✠╼━━━━━━❖━━━━━━━✠╯\n•PEMILIK    : [𝐎𝐖𝐍𝐄𝐑]({@Mafia_TobatZ})\n•CHANNEL      : [𝐈𝐍𝐅𝐎](t.me/Zaen_music)\n•GROUP           : [𝐆𝐑𝐎𝐔𝐏]({Zaen_music})\n•INSTAGRAM  :  [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({zaen_fantastick})"
+        f"**╭✠╼━━━━━━❖━━━━━━━✠╮**\n             [{REPO_NAME}](https://github.com/Repo-jen/REPO-JEN)\n╰✠╼━━━━━━❖━━━━━━━✠╯\n•PEMILIK    : [𝐎𝐖𝐍𝐄𝐑]({Mafia_TobatZ})\n•CHANNEL      : [𝐈𝐍𝐅𝐎](t.me/Zaen_music)\n•GROUP           : [𝐆𝐑𝐎𝐔𝐏]({Zaen_music})\n•INSTAGRAM  :  [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({zaen_fantastick})"
     )
 
 
